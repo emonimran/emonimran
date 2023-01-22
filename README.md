@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Imran Hossain</h1>
 <h3 align="center">I am a frontend developer with a passion for creating visually appealing and user-friendly web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emonimran&label=Profile%20views&color=0e75b6&style=flat" alt="emonimran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emonimran" alt="emonimran" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [Porfolio Website](https://md-imranhossain.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://md-imranhossain.netlify.app/](https://md-imranhossain.netlify.app/)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **md.imranhossain1722@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xY57lnzusLguiX3oukP1wTajwlSFmBmk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xY57lnzusLguiX3oukP1wTajwlSFmBmk/view?usp=sharing](https://drive.google.com/file/d/1xY57lnzusLguiX3oukP1wTajwlSFmBmk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
