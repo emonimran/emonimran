@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emonimran&show_icons=true&locale=en" alt="emonimran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emonimran&" alt="emonimran" /></p>
-<a href="https://md-imranhossain.netlify.app/"><img src="https://img.shields.io/badge/-findAshraf.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/mdimranhossain118"><img src="https://img.shields.io/badge/-Ashraf%20Raneem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:md.imranhossain1722@gmail.com"><img src="https://img.shields.io/badge/-ashrafraneem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
