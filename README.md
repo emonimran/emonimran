@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://md-imranhossain.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me through [Email](mailto:md.imranhossain1722@gmail.com) or [LinkedIn](https://linkedin.com/in/mdimranhossain118)
 
