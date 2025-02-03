@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on an [E-commerce website](https://wolmart-demo15.netlify.app/)
 
-- 👨‍💻 All of my projects are available at my [Portfolio Website](https://md-imranhossain.netlify.app/)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me through [Email](mailto:md.imranhossain1722@gmail.com) or [LinkedIn](https://linkedin.com/in/mdimranhossain118)
