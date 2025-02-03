@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an [E-commerce website](https://wolmart-demo15.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me through [Email](mailto:md.imranhossain1722@gmail.com) or [LinkedIn](https://linkedin.com/in/mdimranhossain118)
 
