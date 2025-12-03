@@ -1,11 +1,73 @@
-<h1 align="center">Hi 👋, I'm Md. Imran Hossain</h1>
-<h3 align="center">I am a frontend developer with a passion for creating visually appealing and user-friendly web applications.</h3>
+<div align="center">
 
-- 📫 How to reach me through [Email](mailto:md.imranhossain1722@gmail.com) or [LinkedIn](https://linkedin.com/in/mdimranhossain118)
+# Hi there, I'm Imran Hossain 👋
 
-- 📄 Know about my experiences [Portfolio](https://connectimran.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-connectimran.netlify.app-blue?style=for-the-badge&logo=netlify)](https://connectimran.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdimranhossain118)
+[![Email](https://img.shields.io/badge/Email-imranhossain.moh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranhossain.moh@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emonimran&show_icons=true&locale=en&layout=compact" alt="emonimran" /></p>
+## 🚀 About Me
+
+**Data Analyst | Web Developer | Electrical Engineer**
+
+Passionate about turning data into actionable insights and building interactive web applications. I bridge the gap between technical analysis and user-friendly solutions.
+
+- 📊 **Data Analytics**: Transforming complex datasets into business intelligence
+- 💻 **Web Development**: Creating responsive, AI-powered web applications
+- ⚡ **Power Systems**: Background in electrical engineering and optimization
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Analytics & Business Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Electrical Engineering & Power Systems
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![ETAP](https://img.shields.io/badge/ETAP-FF6B35?style=flat-square&logoColor=white)
+![PVsyst](https://img.shields.io/badge/PVsyst-FFA500?style=flat-square&logoColor=white)
+![PSCAD](https://img.shields.io/badge/PSCAD-1E88E5?style=flat-square&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively seeking opportunities in **Data Analytics** and **Web Development**. Let's discuss how I can contribute to your team!
+
+- 💼 [LinkedIn](https://linkedin.com/in/mdimranhossain118)
+- 🌐 [Portfolio Website](https://connectimran.netlify.app)
+- 📧 [imranhossain.moh@gmail.com](mailto:imranhossain.moh@gmail.com)
+
+---
+
+<div align="center">
+  
+**💡 "Turning data into decisions, and ideas into interactive experiences"**
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=emonimran.emonimran)
+
+</div>
